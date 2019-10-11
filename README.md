@@ -1,4 +1,4 @@
-# my-videgoames
+# my-videogames
 
 Dear Human,
 
