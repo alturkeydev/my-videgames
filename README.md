@@ -11,6 +11,13 @@ This repo includes the best video games I developed. Please, honor me and have a
 ## Guts The Space Wanderer: 2D Platformer
 ![Guts The Space Wanderer](https://github.com/younes-alturkey/my-videogames/blob/master/Screenshots/guts_the_space_wanderer_screenshot.png)
 
+## Lars The_Antivirus: 2D Platformer
+![Lars The_Antivirus](https://github.com/younes-alturkey/my-videogames/blob/master/Screenshots/lars_the_antivirus_screenshot.png)
+
+
+## The Smart Zombie: 2D Puzzle
+![The Smart Zombie](https://github.com/younes-alturkey/my-videogames/blob/master/Screenshots/the_smart_zombie_screenshot.png)
+
 
 ## Walkie Talkie
 ![Walkie Talkie](https://github.com/younes-alturkey/android-apps/blob/main/images/walkie-talkie-2.png)
