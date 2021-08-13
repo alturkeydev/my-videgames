@@ -17,7 +17,3 @@ This repo includes the best video games I developed. Please, honor me and have a
 
 ## The Smart Zombie: 2D Puzzle
 ![The Smart Zombie](https://github.com/younes-alturkey/my-videogames/blob/master/Screenshots/the_smart_zombie_screenshot.png)
-
-
-## Walkie Talkie
-![Walkie Talkie](https://github.com/younes-alturkey/android-apps/blob/main/images/walkie-talkie-2.png)
